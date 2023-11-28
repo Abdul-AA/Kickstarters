@@ -12,3 +12,12 @@ potential, this project aims to develop a classification model capable of predic
 or failure. Additionally, the project seeks to employ clustering techniques on historical data to uncover
 inherent patterns and trends among past Kickstarter projects, offering creators a deeper understanding
 to enhance their project planning and execution strategies.
+
+## Tools and Algorithms
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Boosting and Bagging
+- K-Prototypes clustering
+- SHAP
