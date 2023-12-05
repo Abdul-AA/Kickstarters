@@ -21,3 +21,5 @@ to enhance their project planning and execution strategies.
 - Boosting and Bagging
 - K-Prototypes clustering
 - SHAP
+
+Full report available here https://github.com/Abdul-AA/Kickstarters/blob/824890b61a1c74e1d6f12f755413d83576c785f9/Project%20Report.pdf
