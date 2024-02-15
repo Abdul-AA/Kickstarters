@@ -22,4 +22,4 @@ to enhance their project planning and execution strategies.
 - K-Prototypes clustering
 - SHAP
 
-Full report available here https://github.com/Abdul-AA/Kickstarters/blob/58de5bfc24e5ef56c499d19c3dcb5ff003113f19/Project%20Report.pdf
+[Full report available here](https://github.com/Abdul-AA/Kickstarters/blob/58de5bfc24e5ef56c499d19c3dcb5ff003113f19/Project%20Report.pdf)
